@@ -60,7 +60,7 @@ styleBlocks.parentNode.insertBefore(style, styleBlocks);
 
 var audio = new Audio();
 var xiImg = document.querySelector('#app > .cat-img');
-var text = xiImg.querySelector('.counter.rot-c')
+var text = xiImg.querySelector('.counter')
 
 function adaddEventListenerd(){
     var dowm = function(e){
