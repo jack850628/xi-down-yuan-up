@@ -9,7 +9,7 @@ const ussrAnthemShort = 'https://www.myinstants.com/media/sounds/ussr-anthem-sho
 
 const img1 = 'https://i.imgur.com/NvKnlAE.png';
 const img2 = 'https://i.imgur.com/5b9ZLzR.png';
-const sound = 'https://www.myinstants.com/media/sounds/.mp3_WfYbRzx';
+const sound = 'https://www.myinstants.com/media/sounds/m_fixed_WfYbRzx.mp3';
 
 var styleBlocks = document.getElementsByTagName('link')[0];
 var style = document.createElement('style');
