@@ -15,7 +15,7 @@
     style.innerHTML = `
         #xi-down{
             position: fixed;
-            top: 0px;
+            top: 62px;
             left: 50%;
             transform: translateX(-50%);
             font-size: 25px;
