@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         習下元上
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        https://popxi.click/
-// @icon         https://www.google.com/s2/favicons?domain=popxi.click
+// @namespace    https://greasyfork.org/zh-TW/users/461233-jack850628
+// @version      1.1.230228
+// @description  在 https://popxi.click/ 中來個 習下元上
+// @author       jack850628
+// @match        https://web.archive.org/web/*/https://popxi.click/
 // @grant        none
 // ==/UserScript==
 
